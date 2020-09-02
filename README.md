@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋 i am Alan
+
+## :school: Instituto Tecnológico de Nuevo Laredo 
+
+## :large_blue_circle: No. de control 19100234
+
+
+
 
 <!--
 **AlanPenaOrtiz/AlanPenaOrtiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
